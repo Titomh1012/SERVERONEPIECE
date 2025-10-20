@@ -1,0 +1,1048 @@
+[20Oct2025 00:00:56.298] [IO-Worker-101/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [4, 16]
+java.lang.NullPointerException: null
+[20Oct2025 00:01:34.708] [IO-Worker-107/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [9, 27]
+java.lang.NullPointerException: null
+[20Oct2025 00:01:36.909] [IO-Worker-93/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [6, 13]
+java.lang.NullPointerException: null
+[20Oct2025 00:02:16.505] [IO-Worker-101/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [3, 24]
+java.lang.NullPointerException: null
+[20Oct2025 00:02:51.702] [IO-Worker-93/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [11, 24]
+java.lang.NullPointerException: null
+[20Oct2025 00:03:22.710] [IO-Worker-93/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [6, 16]
+java.lang.NullPointerException: null
+[20Oct2025 00:03:51.299] [IO-Worker-93/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [10, 23]
+java.lang.NullPointerException: null
+[20Oct2025 00:06:07.097] [IO-Worker-93/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [4, 16]
+java.lang.NullPointerException: null
+[20Oct2025 00:06:29.154] [IO-Worker-110/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [4, 24]
+java.lang.NullPointerException: null
+[20Oct2025 00:06:32.351] [IO-Worker-110/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [4, 17]
+java.lang.NullPointerException: null
+[20Oct2025 00:06:40.902] [IO-Worker-110/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [7, 13]
+java.lang.NullPointerException: null
+[20Oct2025 00:06:51.555] [IO-Worker-93/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [6, 13]
+java.lang.NullPointerException: null
+[20Oct2025 00:06:51.563] [IO-Worker-110/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [9, 27]
+java.lang.NullPointerException: null
+[20Oct2025 00:07:36.308] [IO-Worker-93/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [3, 24]
+java.lang.NullPointerException: null
+[20Oct2025 00:07:52.301] [IO-Worker-111/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [6, 14]
+java.lang.NullPointerException: null
+[20Oct2025 00:08:02.301] [IO-Worker-93/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [11, 24]
+java.lang.NullPointerException: null
+[20Oct2025 00:08:42.504] [IO-Worker-111/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [6, 16]
+java.lang.NullPointerException: null
+[20Oct2025 00:09:02.836] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [cartaddon:main] rejected their client side version number
+[20Oct2025 00:09:02.836] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[20Oct2025 00:09:02.863] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@6a86ff46[id=<null>,name=RectoDePato,properties={},legacy=false] (/127.41.213.37:59649) lost connection: Connection closed - mismatched mod channel list
+[20Oct2025 00:09:05.898] [IO-Worker-111/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [10, 23]
+java.lang.NullPointerException: null
+[20Oct2025 00:09:10.223] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [cartaddon:main] rejected their client side version number
+[20Oct2025 00:09:10.223] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[20Oct2025 00:09:10.256] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@673cd6f5[id=<null>,name=RectoDePato,properties={},legacy=false] (/127.41.213.37:59083) lost connection: Connection closed - mismatched mod channel list
+[20Oct2025 00:09:26.818] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.fml.network.NetworkRegistry/NETREGISTRY]: Channels [cartaddon:main] rejected their client side version number
+[20Oct2025 00:09:26.818] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.fml.network.FMLHandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[20Oct2025 00:09:26.857] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@185e9fea[id=<null>,name=RectoDePato,properties={},legacy=false] (/127.41.213.37:44835) lost connection: Connection closed - mismatched mod channel list
+[20Oct2025 00:11:26.753] [IO-Worker-113/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [4, 16]
+java.lang.NullPointerException: null
+[20Oct2025 00:12:04.105] [IO-Worker-115/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [5, 16]
+java.lang.NullPointerException: null
+[20Oct2025 00:12:04.224] [IO-Worker-115/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [4, 17]
+java.lang.NullPointerException: null
+[20Oct2025 00:12:04.248] [IO-Worker-115/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [7, 13]
+java.lang.NullPointerException: null
+[20Oct2025 00:12:04.306] [IO-Worker-116/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [9, 27]
+java.lang.NullPointerException: null
+[20Oct2025 00:12:08.347] [IO-Worker-113/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [6, 13]
+java.lang.NullPointerException: null
+[20Oct2025 00:12:51.107] [IO-Worker-113/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [3, 24]
+java.lang.NullPointerException: null
+[20Oct2025 00:13:16.712] [IO-Worker-116/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [4, 24]
+java.lang.NullPointerException: null
+[20Oct2025 00:13:50.895] [IO-Worker-113/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [6, 16]
+java.lang.NullPointerException: null
+[20Oct2025 00:14:05.896] [IO-Worker-116/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [10, 23]
+java.lang.NullPointerException: null
+[20Oct2025 00:16:46.897] [IO-Worker-119/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [4, 16]
+java.lang.NullPointerException: null
+[20Oct2025 00:17:02.098] [IO-Worker-119/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [7, 13]
+java.lang.NullPointerException: null
+[20Oct2025 00:17:06.101] [IO-Worker-119/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [9, 27]
+java.lang.NullPointerException: null
+[20Oct2025 00:17:27.307] [IO-Worker-116/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [6, 13]
+java.lang.NullPointerException: null
+[20Oct2025 00:17:29.024] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7cf9f981
+[20Oct2025 00:17:29.061] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: RectoDePato[/127.41.213.37:44263] logged in with entity id 52077 at (574.4586470214799, 68.0, -608.0625398714417)
+[20Oct2025 00:17:29.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato joined the game
+[20Oct2025 00:17:29.113] [Server thread/INFO] [Waila/]: Syncing config to RectoDePato (18ca88df-f812-3118-b423-b418e813b1bf)
+[20Oct2025 00:17:29.188] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bullet'/52080, l='ServerLevel[world]', x=574.88, y=68.00, z=-608.86]
+[20Oct2025 00:17:29.191] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Bullet'/52084, l='ServerLevel[world]', x=573.59, y=68.00, z=-607.25]
+[20Oct2025 00:18:09.900] [IO-Worker-119/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [3, 24]
+java.lang.NullPointerException: null
+[20Oct2025 00:18:31.510] [IO-Worker-122/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [11, 24]
+java.lang.NullPointerException: null
+[20Oct2025 00:19:35.501] [IO-Worker-122/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [10, 23]
+java.lang.NullPointerException: null
+[20Oct2025 00:19:45.111] [IO-Worker-119/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [4, 24]
+java.lang.NullPointerException: null
+[20Oct2025 00:19:46.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to Titomh1012]
+[20Oct2025 00:20:17.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to RectoDePato]
+[20Oct2025 00:20:25.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported RectoDePato to Titomh1012]
+[20Oct2025 00:20:35.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Titomh1012> todos murieron
+[20Oct2025 00:20:42.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <RectoDePato> :'0
+[20Oct2025 00:20:43.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Titomh1012> adios.......
+[20Oct2025 00:21:03.908] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [6, 16]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:34.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to RectoDePato]
+[20Oct2025 00:21:34.733] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [30, 35]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:34.735] [IO-Worker-128/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [30, 33]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:34.737] [IO-Worker-128/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [30, 36]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:34.739] [IO-Worker-128/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [30, 37]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:34.795] [IO-Worker-130/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [3, 24]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:35.090] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [9, 27]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:35.104] [IO-Worker-130/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [30, 34]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:35.173] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [11, 24]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:35.254] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [10, 23]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:35.280] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [4, 24]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:56.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported Titomh1012 to RectoDePato]
+[20Oct2025 00:21:57.172] [IO-Worker-128/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1051, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.180] [IO-Worker-122/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1058, 862]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.185] [IO-Worker-128/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1035, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.225] [IO-Worker-128/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1059, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.275] [IO-Worker-130/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1055, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.298] [IO-Worker-122/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1057, 875]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.319] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1037, 875]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.329] [IO-Worker-122/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1044, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.335] [IO-Worker-122/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1058, 867]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.344] [IO-Worker-128/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1059, 874]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.370] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1054, 875]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.403] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1045, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.411] [IO-Worker-128/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1058, 872]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.429] [IO-Worker-130/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1034, 873]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.450] [IO-Worker-122/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1056, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.479] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1059, 867]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.530] [IO-Worker-122/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1055, 874]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.570] [IO-Worker-122/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1058, 871]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.586] [IO-Worker-130/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1057, 872]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.627] [IO-Worker-122/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1034, 874]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.641] [IO-Worker-130/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1049, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.680] [IO-Worker-130/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1058, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.686] [IO-Worker-122/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1059, 863]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.688] [IO-Worker-130/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1052, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.760] [IO-Worker-130/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1059, 870]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.767] [IO-Worker-122/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1051, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.840] [IO-Worker-130/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1056, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.861] [IO-Worker-130/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1052, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.893] [IO-Worker-130/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1059, 868]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.943] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1058, 868]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:57.980] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1042, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.052] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1058, 861]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.075] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1059, 873]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.106] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1050, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.135] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1041, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.152] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1057, 873]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.159] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1058, 865]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.164] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1058, 875]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.212] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1059, 869]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.221] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1035, 874]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.227] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1046, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.238] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1040, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.262] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1054, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.280] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1042, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.290] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1055, 873]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.412] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1053, 875]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.415] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1059, 864]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.422] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1034, 875]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.435] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1056, 873]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.455] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1036, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.472] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1057, 870]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.565] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1057, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.574] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1059, 862]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.580] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1052, 875]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.596] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1059, 872]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.616] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1043, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.644] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1041, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.672] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1047, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.679] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1048, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.693] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1058, 874]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.781] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1038, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.805] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1040, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.821] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1054, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.831] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1056, 874]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.847] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1036, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.852] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1050, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.865] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1039, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.878] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1037, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.895] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1059, 875]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.915] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1059, 865]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.936] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1046, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.965] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1035, 875]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:58.981] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1034, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.010] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1058, 869]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.035] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1057, 874]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.055] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1058, 864]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.084] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1054, 874]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.104] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1056, 872]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.108] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1048, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.139] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1034, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.173] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1047, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.178] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1058, 863]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.235] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1053, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.238] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1058, 873]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.241] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1044, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.243] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1035, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.251] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1036, 875]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.271] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1059, 861]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.284] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1059, 866]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.287] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1045, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.306] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1051, 875]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.322] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1058, 866]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.330] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1055, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.381] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1057, 871]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.392] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1057, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.445] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1043, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.508] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1055, 875]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.563] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1056, 875]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.571] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1059, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.578] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1058, 870]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.586] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1059, 871]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.620] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1037, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.665] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1058, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.668] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1038, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.674] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1053, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.682] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1049, 876]
+java.lang.NullPointerException: null
+[20Oct2025 00:21:59.694] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [-1039, 877]
+java.lang.NullPointerException: null
+[20Oct2025 00:22:01.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Titomh1012> nunca te libraras de mi
+[20Oct2025 00:22:01.717] [IO-Worker-122/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [4, 16]
+java.lang.NullPointerException: null
+[20Oct2025 00:22:16.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Titomh1012> estoy en discord habla xdxddx
+[20Oct2025 00:22:29.299] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [7, 13]
+java.lang.NullPointerException: null
+[20Oct2025 00:22:36.696] [IO-Worker-122/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [6, 13]
+java.lang.NullPointerException: null
+[20Oct2025 00:22:38.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Set own game mode to Survival Mode]
+[20Oct2025 00:23:46.096] [IO-Worker-130/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [5, 16]
+java.lang.NullPointerException: null
+[20Oct2025 00:24:15.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [RectoDePato: Teleported RectoDePato to Titomh1012]
+[20Oct2025 00:24:49.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 34110ms or 682 ticks behind
+[20Oct2025 00:24:49.982] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Titomh1012 lost connection: Disconnected
+[20Oct2025 00:24:49.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 left the game
+[20Oct2025 00:24:50.017] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: RectoDePato lost connection: Disconnected
+[20Oct2025 00:24:50.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato left the game
+[20Oct2025 00:24:50.378] [IO-Worker-130/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [97, -155]
+java.lang.NullPointerException: null
+[20Oct2025 00:24:50.641] [IO-Worker-131/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [96, -154]
+java.lang.NullPointerException: null
+[20Oct2025 00:24:50.706] [IO-Worker-132/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [97, -157]
+java.lang.NullPointerException: null
+[20Oct2025 00:24:51.071] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [97, -156]
+java.lang.NullPointerException: null
+[20Oct2025 00:24:51.168] [IO-Worker-132/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [96, -155]
+java.lang.NullPointerException: null
+[20Oct2025 00:24:51.171] [IO-Worker-127/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [97, -154]
+java.lang.NullPointerException: null
+[20Oct2025 00:25:00.848] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@233348c1
+[20Oct2025 00:25:00.928] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Titomh1012[/127.54.11.106:35095] logged in with entity id 56933 at (1715.349596680047, 69.5079930737183, -2765.764020519606)
+[20Oct2025 00:25:00.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 joined the game
+[20Oct2025 00:25:01.048] [Server thread/INFO] [Waila/]: Syncing config to Titomh1012 (bda2af2f-140c-3c17-9a00-f57b6921e79b)
+[20Oct2025 00:25:09.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Set own game mode to Creative Mode]
+[20Oct2025 00:26:47.198] [IO-Worker-122/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [6, 16]
+java.lang.NullPointerException: null
+[20Oct2025 00:27:06.398] [IO-Worker-122/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [4, 17]
+java.lang.NullPointerException: null
+[20Oct2025 00:27:27.851] [IO-Worker-132/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [5, 15]
+java.lang.NullPointerException: null
+[20Oct2025 00:27:30.055] [IO-Worker-133/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [6, 12]
+java.lang.NullPointerException: null
+[20Oct2025 00:27:32.146] [IO-Worker-133/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [5, 14]
+java.lang.NullPointerException: null
+[20Oct2025 00:27:32.148] [IO-Worker-122/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [6, 14]
+java.lang.NullPointerException: null
+[20Oct2025 00:27:42.706] [IO-Worker-133/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [101, -170]
+java.lang.NullPointerException: null
+[20Oct2025 00:27:42.709] [IO-Worker-134/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [102, -170]
+java.lang.NullPointerException: null
+[20Oct2025 00:27:52.396] [IO-Worker-132/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [4, 16]
+java.lang.NullPointerException: null
+[20Oct2025 00:28:15.998] [IO-Worker-133/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [7, 13]
+java.lang.NullPointerException: null
+[20Oct2025 00:28:28.942] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.9]
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.9]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.2]
+	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234973_a_(WorldEntitySpawner.java:231) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234966_a_(WorldEntitySpawner.java:166) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234967_a_(WorldEntitySpawner.java:124) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234979_a_(WorldEntitySpawner.java:110) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_241099_a_(ServerChunkProvider.java:364) ~[?:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1541) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217220_m(ServerChunkProvider.java:351) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217207_a(ServerChunkProvider.java:326) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:334) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[20Oct2025 00:28:34.003] [IO-Worker-122/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [6, 13]
+java.lang.NullPointerException: null
+[20Oct2025 00:28:48.942] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.9]
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.9]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.2]
+	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234973_a_(WorldEntitySpawner.java:231) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234966_a_(WorldEntitySpawner.java:166) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234967_a_(WorldEntitySpawner.java:124) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234979_a_(WorldEntitySpawner.java:110) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_241099_a_(ServerChunkProvider.java:364) ~[?:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1541) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217220_m(ServerChunkProvider.java:351) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217207_a(ServerChunkProvider.java:326) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:334) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[20Oct2025 00:29:08.942] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.9]
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.9]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.2]
+	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234973_a_(WorldEntitySpawner.java:231) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234966_a_(WorldEntitySpawner.java:166) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234967_a_(WorldEntitySpawner.java:124) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234979_a_(WorldEntitySpawner.java:110) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_241099_a_(ServerChunkProvider.java:364) ~[?:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1541) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217220_m(ServerChunkProvider.java:351) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217207_a(ServerChunkProvider.java:326) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:334) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[20Oct2025 00:30:08.943] [Server thread/WARN] [net.minecraft.world.spawner.WorldEntitySpawner/]: Failed to create mob
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.9]
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.9]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.2]
+	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234973_a_(WorldEntitySpawner.java:231) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234966_a_(WorldEntitySpawner.java:166) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234967_a_(WorldEntitySpawner.java:124) ~[?:?]
+	at net.minecraft.world.spawner.WorldEntitySpawner.func_234979_a_(WorldEntitySpawner.java:110) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_241099_a_(ServerChunkProvider.java:364) ~[?:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1541) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217220_m(ServerChunkProvider.java:351) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217207_a(ServerChunkProvider.java:326) ~[?:?]
+	at net.minecraft.world.server.ServerWorld.func_72835_b(ServerWorld.java:334) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:851) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:787) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:642) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[20Oct2025 00:30:22.047] [IO-Worker-137/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [102, -170]
+java.lang.NullPointerException: null
+[20Oct2025 00:30:22.214] [IO-Worker-122/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [101, -170]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.551] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [16, -18]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.566] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [14, -22]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.572] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [10, -26]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.583] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [12, -23]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.587] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [15, -27]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.618] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [16, -23]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.626] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [17, -24]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.649] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [12, -22]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.656] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [15, -20]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.662] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [17, -18]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.670] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [13, -22]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.674] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [16, -22]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.697] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [9, -22]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.708] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [16, -19]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.727] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [17, -20]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.738] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [11, -26]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.755] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [13, -18]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.758] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [17, -25]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.772] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [10, -21]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.779] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [11, -21]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.785] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [12, -24]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.801] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [15, -19]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.805] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [10, -22]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.815] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [13, -24]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.824] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [13, -23]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.827] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [16, -21]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.830] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [17, -19]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.856] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [14, -18]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.878] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [14, -23]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.881] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [11, -25]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.884] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [9, -26]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.887] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [15, -23]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.891] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [16, -27]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.898] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [11, -22]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.902] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [15, -18]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.909] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [9, -25]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.924] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [13, -20]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.926] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [14, -25]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.941] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [15, -24]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.957] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [17, -26]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.963] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [16, -20]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.969] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [17, -21]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.994] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [12, -25]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:43.999] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [11, -23]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.004] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [16, -26]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.009] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [17, -27]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.022] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [16, -25]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.025] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [15, -25]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.028] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [13, -19]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.052] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [14, -19]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.066] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [10, -23]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.070] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [14, -24]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.078] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [13, -25]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.105] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [10, -25]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.116] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [13, -21]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.127] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [13, -26]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.140] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [9, -23]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.153] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [11, -24]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.157] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [14, -21]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.165] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [15, -22]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.194] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [14, -20]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.202] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [15, -26]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.222] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [15, -21]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.226] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [17, -22]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.234] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [9, -24]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.240] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [10, -24]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.248] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [14, -26]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.257] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [12, -20]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.307] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [16, -24]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.322] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [12, -21]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.325] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [12, -26]
+java.lang.NullPointerException: null
+[20Oct2025 00:31:44.328] [IO-Worker-141/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [17, -23]
+java.lang.NullPointerException: null
+[20Oct2025 00:33:02.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Titomh1012 fell out of the world
+[20Oct2025 00:33:02.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Killed Titomh1012]
+[20Oct2025 00:33:04.523] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [102, -170]
+java.lang.NullPointerException: null
+[20Oct2025 00:33:04.567] [IO-Worker-138/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [101, -170]
+java.lang.NullPointerException: null
+[20Oct2025 00:33:07.067] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7408355a
+[20Oct2025 00:33:07.099] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: RectoDePato[/127.41.213.37:58283] logged in with entity id 59488 at (1715.349596680047, 69.5079930737183, -2765.764020519606)
+[20Oct2025 00:33:07.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RectoDePato joined the game
+[20Oct2025 00:33:07.135] [Server thread/INFO] [Waila/]: Syncing config to RectoDePato (18ca88df-f812-3118-b423-b418e813b1bf)
+[20Oct2025 00:33:07.199] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Exception loading entity: 
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.9]
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.9]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.2]
+	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220337_b_(EntityType.java:456) ~[?:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220330_a(EntityType.java:455) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220343_b(EntityType.java:513) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220335_a(EntityType.java:495) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222650_a(ChunkSerializer.java:384) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.mdb6bb68$lambda$replacePostLoad$0$0(ChunkSerializer.java:1082) ~[?:?]
+	at net.minecraft.world.chunk.Chunk.func_217318_w(Chunk.java:457) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.mixinextras$bridge$func_217318_w$111(ChunkManager.java) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.wrapOperation$zgl000$pehkui$convertToFullChunk$lambda$loadEntities(ChunkManager.java:1660) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.wrapOperation$zgl000$pehkui$convertToFullChunk$lambda$loadEntities$mixinextras$bridge$110(ChunkManager.java) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219237_a_(ChunkManager.java:582) ~[?:?]
+	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
+	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219193_a_(ChunkManager.java:569) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[20Oct2025 00:33:07.292] [IO-Worker-132/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID b2a327c0-b337-417c-8da5-3dde56e4ba8a
+[20Oct2025 00:33:07.292] [IO-Worker-132/WARN] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to read chunk [102, -170]
+net.minecraft.crash.ReportedException: Loading NBT data
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:429) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229678_a_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:53) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:423) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229678_a_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:53) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:423) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229678_a_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:53) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_152455_a(CompressedStreamTools.java:117) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_152456_a(CompressedStreamTools.java:87) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_74794_a(CompressedStreamTools.java:83) ~[?:?]
+	at net.minecraft.world.chunk.storage.RegionFileCache.func_219099_e(SourceFile:56) ~[?:?]
+	at net.minecraft.world.chunk.storage.IOWorker.func_235980_b_(SourceFile:85) ~[?:?]
+	at net.minecraft.world.chunk.storage.IOWorker.func_235972_a_(SourceFile:120) ~[?:?]
+	at net.minecraft.util.concurrent.ITaskQueue$RunnableWithPriority.run(SourceFile:54) [?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) [?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) [?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readUnsignedShort(DataInputStream.java:345) ~[?:?]
+	at java.io.DataInputStream.readUTF(DataInputStream.java:594) ~[?:?]
+	at java.io.DataInputStream.readUTF(DataInputStream.java:569) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_152448_b(CompoundNBT.java:418) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229679_b_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:50) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:423) ~[?:?]
+	... 24 more
+[20Oct2025 00:33:07.293] [Server thread/ERROR] [net.minecraft.world.server.ChunkManager/]: Couldn't load chunk [102, -170]
+java.util.concurrent.CompletionException: net.minecraft.crash.ReportedException: Loading NBT data
+	at java.util.concurrent.CompletableFuture.reportJoin(CompletableFuture.java:412) ~[?:?]
+	at java.util.concurrent.CompletableFuture.join(CompletableFuture.java:2050) ~[?:?]
+	at net.minecraft.world.chunk.storage.IOWorker.func_227090_a_(SourceFile:95) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkLoader.func_227078_e_(SourceFile:61) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219178_f(ChunkManager.java:813) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_223170_j(ChunkManager.java:476) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: net.minecraft.crash.ReportedException: Loading NBT data
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:429) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229678_a_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:53) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:423) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229678_a_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:53) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:423) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229678_a_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:53) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_152455_a(CompressedStreamTools.java:117) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_152456_a(CompressedStreamTools.java:87) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_74794_a(CompressedStreamTools.java:83) ~[?:?]
+	at net.minecraft.world.chunk.storage.RegionFileCache.func_219099_e(SourceFile:56) ~[?:?]
+	at net.minecraft.world.chunk.storage.IOWorker.func_235980_b_(SourceFile:85) ~[?:?]
+	at net.minecraft.world.chunk.storage.IOWorker.func_235972_a_(SourceFile:120) ~[?:?]
+	at net.minecraft.util.concurrent.ITaskQueue$RunnableWithPriority.run(SourceFile:54) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	... 1 more
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readUnsignedShort(DataInputStream.java:345) ~[?:?]
+	at java.io.DataInputStream.readUTF(DataInputStream.java:594) ~[?:?]
+	at java.io.DataInputStream.readUTF(DataInputStream.java:569) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_152448_b(CompoundNBT.java:418) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229679_b_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:50) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:423) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229678_a_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:53) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:423) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229678_a_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:53) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:423) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229678_a_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:53) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_152455_a(CompressedStreamTools.java:117) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_152456_a(CompressedStreamTools.java:87) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_74794_a(CompressedStreamTools.java:83) ~[?:?]
+	at net.minecraft.world.chunk.storage.RegionFileCache.func_219099_e(SourceFile:56) ~[?:?]
+	at net.minecraft.world.chunk.storage.IOWorker.func_235980_b_(SourceFile:85) ~[?:?]
+	at net.minecraft.world.chunk.storage.IOWorker.func_235972_a_(SourceFile:120) ~[?:?]
+	at net.minecraft.util.concurrent.ITaskQueue$RunnableWithPriority.run(SourceFile:54) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	... 1 more
+[20Oct2025 00:33:07.569] [IO-Worker-138/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID d2099d3c-9d54-49f0-a6a9-e623f5a9d5a4
+[20Oct2025 00:33:07.569] [IO-Worker-138/WARN] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to read chunk [101, -170]
+net.minecraft.crash.ReportedException: Loading NBT data
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:429) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229678_a_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:53) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:423) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229678_a_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:53) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:423) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229678_a_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:53) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_152455_a(CompressedStreamTools.java:117) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_152456_a(CompressedStreamTools.java:87) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_74794_a(CompressedStreamTools.java:83) ~[?:?]
+	at net.minecraft.world.chunk.storage.RegionFileCache.func_219099_e(SourceFile:56) ~[?:?]
+	at net.minecraft.world.chunk.storage.IOWorker.func_235980_b_(SourceFile:85) ~[?:?]
+	at net.minecraft.world.chunk.storage.IOWorker.func_235972_a_(SourceFile:120) ~[?:?]
+	at net.minecraft.util.concurrent.ITaskQueue$RunnableWithPriority.run(SourceFile:54) [?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) [?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) [?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readUnsignedShort(DataInputStream.java:345) ~[?:?]
+	at java.io.DataInputStream.readUTF(DataInputStream.java:594) ~[?:?]
+	at java.io.DataInputStream.readUTF(DataInputStream.java:569) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_152448_b(CompoundNBT.java:418) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229679_b_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:50) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:423) ~[?:?]
+	... 24 more
+[20Oct2025 00:33:07.570] [Server thread/ERROR] [net.minecraft.world.server.ChunkManager/]: Couldn't load chunk [101, -170]
+java.util.concurrent.CompletionException: net.minecraft.crash.ReportedException: Loading NBT data
+	at java.util.concurrent.CompletableFuture.reportJoin(CompletableFuture.java:412) ~[?:?]
+	at java.util.concurrent.CompletableFuture.join(CompletableFuture.java:2050) ~[?:?]
+	at net.minecraft.world.chunk.storage.IOWorker.func_227090_a_(SourceFile:95) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkLoader.func_227078_e_(SourceFile:61) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219178_f(ChunkManager.java:813) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_223170_j(ChunkManager.java:476) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: net.minecraft.crash.ReportedException: Loading NBT data
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:429) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229678_a_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:53) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:423) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229678_a_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:53) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:423) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229678_a_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:53) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_152455_a(CompressedStreamTools.java:117) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_152456_a(CompressedStreamTools.java:87) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_74794_a(CompressedStreamTools.java:83) ~[?:?]
+	at net.minecraft.world.chunk.storage.RegionFileCache.func_219099_e(SourceFile:56) ~[?:?]
+	at net.minecraft.world.chunk.storage.IOWorker.func_235980_b_(SourceFile:85) ~[?:?]
+	at net.minecraft.world.chunk.storage.IOWorker.func_235972_a_(SourceFile:120) ~[?:?]
+	at net.minecraft.util.concurrent.ITaskQueue$RunnableWithPriority.run(SourceFile:54) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	... 1 more
+Caused by: java.io.EOFException
+	at java.io.DataInputStream.readUnsignedShort(DataInputStream.java:345) ~[?:?]
+	at java.io.DataInputStream.readUTF(DataInputStream.java:594) ~[?:?]
+	at java.io.DataInputStream.readUTF(DataInputStream.java:569) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_152448_b(CompoundNBT.java:418) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229679_b_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:50) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:423) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229678_a_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:53) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:423) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229678_a_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:53) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229680_b_(CompoundNBT.java:423) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT.func_229678_a_(CompoundNBT.java:31) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:53) ~[?:?]
+	at net.minecraft.nbt.CompoundNBT$1.func_225649_b_(CompoundNBT.java:40) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_152455_a(CompressedStreamTools.java:117) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_152456_a(CompressedStreamTools.java:87) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_74794_a(CompressedStreamTools.java:83) ~[?:?]
+	at net.minecraft.world.chunk.storage.RegionFileCache.func_219099_e(SourceFile:56) ~[?:?]
+	at net.minecraft.world.chunk.storage.IOWorker.func_235980_b_(SourceFile:85) ~[?:?]
+	at net.minecraft.world.chunk.storage.IOWorker.func_235972_a_(SourceFile:120) ~[?:?]
+	at net.minecraft.util.concurrent.ITaskQueue$RunnableWithPriority.run(SourceFile:54) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213148_e(SourceFile:94) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.func_213145_a(SourceFile:137) ~[?:?]
+	at net.minecraft.util.concurrent.DelegatedTaskExecutor.run(SourceFile:105) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	... 1 more
+[20Oct2025 00:33:07.933] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Exception loading entity: 
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.9]
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.9]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.2]
+	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220337_b_(EntityType.java:456) ~[?:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220330_a(EntityType.java:455) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220343_b(EntityType.java:513) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220335_a(EntityType.java:495) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222650_a(ChunkSerializer.java:384) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.mdb6bb68$lambda$replacePostLoad$0$0(ChunkSerializer.java:1082) ~[?:?]
+	at net.minecraft.world.chunk.Chunk.func_217318_w(Chunk.java:457) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.mixinextras$bridge$func_217318_w$111(ChunkManager.java) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.wrapOperation$zgl000$pehkui$convertToFullChunk$lambda$loadEntities(ChunkManager.java:1660) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.wrapOperation$zgl000$pehkui$convertToFullChunk$lambda$loadEntities$mixinextras$bridge$110(ChunkManager.java) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219237_a_(ChunkManager.java:582) ~[?:?]
+	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
+	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219193_a_(ChunkManager.java:569) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[20Oct2025 00:33:07.935] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Exception loading entity: 
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.9]
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.9]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.2]
+	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220337_b_(EntityType.java:456) ~[?:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220330_a(EntityType.java:455) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220343_b(EntityType.java:513) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220335_a(EntityType.java:495) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222650_a(ChunkSerializer.java:384) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.mdb6bb68$lambda$replacePostLoad$0$0(ChunkSerializer.java:1082) ~[?:?]
+	at net.minecraft.world.chunk.Chunk.func_217318_w(Chunk.java:457) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.mixinextras$bridge$func_217318_w$111(ChunkManager.java) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.wrapOperation$zgl000$pehkui$convertToFullChunk$lambda$loadEntities(ChunkManager.java:1660) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.wrapOperation$zgl000$pehkui$convertToFullChunk$lambda$loadEntities$mixinextras$bridge$110(ChunkManager.java) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219237_a_(ChunkManager.java:582) ~[?:?]
+	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
+	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219193_a_(ChunkManager.java:569) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[20Oct2025 00:33:08.078] [Server thread/WARN] [net.minecraft.entity.EntityType/]: Exception loading entity: 
+java.lang.NullPointerException: null
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:366) ~[mineminenomi:0.10.9]
+	at xyz.pixelatedw.mineminenomi.entities.mobs.OPEntity.getRandomSword(OPEntity.java:362) ~[mineminenomi:0.10.9]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setSwordsmanDetails(CartGruntEntity.java:152) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.setDetails(CartGruntEntity.java:141) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.<init>(CartGruntEntity.java:88) ~[cartaddon:0.7.2]
+	at net.MrMagicalCart.cartaddon.entities.mobs.CartGruntEntity.createRevolutionaryGrunt(CartGruntEntity.java:103) ~[cartaddon:0.7.2]
+	at net.minecraft.entity.EntityType.func_200721_a(EntityType.java:445) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220337_b_(EntityType.java:456) ~[?:?]
+	at java.util.Optional.map(Optional.java:265) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220330_a(EntityType.java:455) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220343_b(EntityType.java:513) ~[?:?]
+	at net.minecraft.entity.EntityType.func_220335_a(EntityType.java:495) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.func_222650_a(ChunkSerializer.java:384) ~[?:?]
+	at net.minecraft.world.chunk.storage.ChunkSerializer.mdb6bb68$lambda$replacePostLoad$0$0(ChunkSerializer.java:1082) ~[?:?]
+	at net.minecraft.world.chunk.Chunk.func_217318_w(Chunk.java:457) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.mixinextras$bridge$func_217318_w$111(ChunkManager.java) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.wrapOperation$zgl000$pehkui$convertToFullChunk$lambda$loadEntities(ChunkManager.java:1660) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.wrapOperation$zgl000$pehkui$convertToFullChunk$lambda$loadEntities$mixinextras$bridge$110(ChunkManager.java) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219237_a_(ChunkManager.java:582) ~[?:?]
+	at com.mojang.datafixers.util.Either.lambda$mapLeft$0(Either.java:162) ~[?:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[?:?]
+	at com.mojang.datafixers.util.Either.mapLeft(Either.java:162) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219193_a_(ChunkManager.java:569) ~[?:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478) ~[?:?]
+	at net.minecraft.world.chunk.ChunkTaskPriorityQueueSorter.func_219083_b(SourceFile:58) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213166_h(ServerChunkProvider.java:519) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider$ChunkExecutor.func_213168_p(ServerChunkProvider.java:527) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217234_d(ServerChunkProvider.java:272) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:722) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[20Oct2025 00:33:09.216] [IO-Worker-143/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [4, 16]
+java.lang.NullPointerException: null
+[20Oct2025 00:33:18.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Titomh1012: Teleported RectoDePato to Titomh1012]
+[20Oct2025 00:33:30.410] [IO-Worker-132/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [7, 13]
+java.lang.NullPointerException: null
+[20Oct2025 00:33:46.410] [IO-Worker-142/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [6, 13]
+java.lang.NullPointerException: null
+[20Oct2025 00:35:32.052] [IO-Worker-143/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [102, -170]
+java.lang.NullPointerException: null
+[20Oct2025 00:35:38.506] [IO-Worker-143/ERROR] [net.minecraft.world.chunk.storage.IOWorker/]: Failed to store chunk [101, -170]
+java.lang.NullPointerException: null
